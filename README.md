@@ -6,6 +6,7 @@ I'll share the solutions of the Hackerrank problems that I've solved every day.
 [A Very Big Sum](/src/aVeryBigSum.java)\
 [Between Two Sets](/src/betweenTwoSets.java)\
 [Birthday Cake Candles](/src/birthdayCakeCandles.java)\
+[Breaking The Records](/src/breakingTheRecords.java)\
 [Compare The Triplets](/src/compareTheTriplets.java)\
 [Diagonal Difference](/src/diagonalDifference.java)\
 [Grading Students](/src/gradingStudents.java)\
