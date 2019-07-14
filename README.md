@@ -3,7 +3,7 @@ I'll share the solutions of the Hackerrank problems that I've solved every day.
 
 ## What did I solve
 [Apple and Orange](/src/appleAndOrange.java)\
-[ArraysDS](/src/arraysDS.java)\
+[ArraysDS](/src/ArraysDS.java)\
 [A Very Big Sum](/src/aVeryBigSum.java)\
 [Between Two Sets](/src/betweenTwoSets.java)\
 [Birthday Cake Candles](/src/birthdayCakeCandles.java)\
